@@ -1,0 +1,18 @@
+[
+    {
+        "title": "Semana 1 del 28 de Agosto al 1 de Setiembre",
+        "boys": [
+            {
+                "name": "Liam Gael Neyra Ponce",
+                "articles": [
+                    {
+                        "quantity": 1,
+                        "category": "LECHE",
+                        "description": "TARRO DE LECHE GLORIA",
+                        "receiptDate": "28/08/2023"
+                    }
+                ]
+            }
+        ]
+    }
+]
