@@ -47,6 +47,18 @@
         "description": "Sobre de gelatina",
         "category": "Gelatina",
         "receiptDate": "05-09-2023"
+      },
+      {
+        "quantity": 1,
+        "description": "Paquete de fideos",
+        "category": "Fideos",
+        "receiptDate": "25-09-2023"
+      },
+      {
+        "quantity": 1,
+        "description": "Jabon Protex",
+        "category": "Jabon",
+        "receiptDate": "25-09-2023"
       }
     ]
   },
@@ -64,6 +76,18 @@
         "description": "Tarros de leche Gloria",
         "category": "Leche",
         "receiptDate": "05-09-2023"
+      },
+      {
+        "quantity": 3,
+        "description": "Jabones Rexona",
+        "category": "Jabon",
+        "receiptDate": "25-09-2023"
+      },
+      {
+        "quantity": 6,
+        "description": "Prendas de ropa",
+        "category": "Ropa",
+        "receiptDate": "26-09-2023"
       }
     ]
   },
@@ -104,7 +128,20 @@
         "description": "Prendas de ropa",
         "category": "Ropa",
         "receiptDate": "19-09-2023"
+      },
+      {
+        "quantity": 2,
+        "description": "Paquetes de Ariel",
+        "category": "Detergente",
+        "receiptDate": "28-09-2023"
+      },
+      {
+        "quantity": 4,
+        "description": "Prendas de ropa",
+        "category": "Ropa",
+        "receiptDate": "28-09-2023"
       }
+
     ]
   },
   {
@@ -142,6 +179,30 @@
         "description": "Jabon Protex",
         "category": "Jabon",
         "receiptDate": "18-09-2023"
+      },
+      {
+        "quantity":2,
+        "description": "Muñecas",
+        "category": "Juguete",
+        "receiptDate": "28-09-2023"
+      },
+      {
+        "quantity": 1,
+        "description": "Prenda de ropa",
+        "category": "Ropa",
+        "receiptDate": "28-09-2023"
+      },
+      {
+        "quantity": 1,
+        "description": "Paquete de fideos",
+        "category": "Fideos",
+        "receiptDate": "28-09-2023"
+      },
+      {
+        "quantity": 1,
+        "description": "Lt de vinagre ",
+        "category": "Vinagre",
+        "receiptDate": "28-09-2023"
       }
     ]
   },
@@ -194,6 +255,12 @@
         "description": "KG de frejoles negros",
         "category": "Menestras",
         "receiptDate": "19-09-2023"
+      },
+      {
+        "quantity": 16,
+        "description": "Prendas de ropa",
+        "category": "Ropa",
+        "receiptDate": "29-09-2023"
       }
     ]
   },
@@ -254,6 +321,18 @@
     "articles": [
       {
         "quantity": 1,
+        "description": "Paquete de sal",
+        "category": "Sal",
+        "receiptDate": "20-09-2023"
+      },
+      {
+        "quantity": 2,
+        "description": "Paquete de arroz",
+        "category": "Arroz",
+        "receiptDate": "20-09-2023"
+      },
+      {
+        "quantity": 1,
         "description": "Jabon Protex",
         "category": "Jabon",
         "receiptDate": "22-09-2023"
@@ -292,6 +371,18 @@
         "description": "Paquete de fideos",
         "category": "Fideos",
         "receiptDate": "18-09-2023"
+      },
+      {
+        "quantity": 1,
+        "description": "Muñequita",
+        "category": "Jugete",
+        "receiptDate": "25-09-2023"
+      },
+      {
+        "quantity": 2,
+        "description": "Prendas de ropa",
+        "category": "Ropa",
+        "receiptDate": "25-09-2023"
       }
     ]
   },
@@ -315,12 +406,42 @@
         "description": "KG de Azucar",
         "category": "Azucar",
         "receiptDate": "19-09-2023"
+      },
+      {
+        "quantity": 4,
+        "description": "Prendas de ropa",
+        "category": "Ropa",
+        "receiptDate": "28-09-2023"
       }
     ]
   },
   {
     "name": "RENZO RODRIGO RAMOS PUYEN",
     "articles": [
+      {
+        "quantity": 1,
+        "description": "Mesa con pizarra para dibujar",
+        "category": "Jugete",
+        "receiptDate": "29-09-2023"
+      },
+      {
+        "quantity": 2,
+        "description": "Cajas de jugete",
+        "category": "Jugete",
+        "receiptDate": "29-09-2023"
+      },
+      {
+        "quantity": 1,
+        "description": "Burbujero",
+        "category": "Jugete",
+        "receiptDate": "29-09-2023"
+      },
+      {
+        "quantity": 21,
+        "description": "Peluches de letras",
+        "category": "Jugete", 
+        "receiptDate": "29-09-2023"
+      }
 
     ]
   },
@@ -332,6 +453,24 @@
         "description": "Tarro de leche",
         "category": "Leche",
         "receiptDate": "06-09-2023"
+      },
+      {
+        "quantity": 16,
+        "description": "Prendas de ropa",
+        "category": "Ropa",
+        "receiptDate": "26-09-2023"
+      },
+      {
+        "quantity": 4,
+        "description": "Parees de medias",  
+        "category": "Ropa",
+        "receiptDate": "26-09-2023"
+      },
+      {
+        "quantity": 1,
+        "description": "Guante de lana",
+        "category": "Ropa",
+        "receiptDate": "26-09-2023"
       }
     ]
   },
