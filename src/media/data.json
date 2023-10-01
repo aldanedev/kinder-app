@@ -21,7 +21,7 @@
       },
       {
         "quantity": 1,
-        "description": "Sobre de mermeleda",
+        "description": "Sobre de mermelada",
         "category": "Mermelada",
         "receiptDate": "08-09-2023"
       },
@@ -131,7 +131,7 @@
       },
       {
         "quantity": 2,
-        "description": "Paquetes de Ariel",
+        "description": "Bolsas de Ariel",
         "category": "Detergente",
         "receiptDate": "28-09-2023"
       },
@@ -327,7 +327,7 @@
       },
       {
         "quantity": 2,
-        "description": "Paquete de arroz",
+        "description": "Bolsas de arroz",
         "category": "Arroz",
         "receiptDate": "20-09-2023"
       },
